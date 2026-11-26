@@ -3,3 +3,5 @@ Laboratory Discussion0: Discuss the primary challenges you encountered while set
 Explain the troubleshooting steps, Gradle build logs, and documentation resources you utilized to diagnose and overcome these roadblocks. Detail how resolving these issues improved your understanding of the native Android build system, the Gradle lifecycle, dependency management, and Android SDK architecture.
 
 Laboratory Discussion1: Discuss what happens to Activity lifecycle states during screen rotation versus pressing the Home button, how Logcat helped verify state order, and what setup or Gradle sync issues you encountered.
+
+Laboratory Discussion2: Compare when to use ConstraintLayout, LinearLayout, and RelativeLayout, and explain the difference between explicit and implicit Intents in LabCheck.
